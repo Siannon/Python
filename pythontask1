@@ -11,4 +11,4 @@ if n % 2 == 0 and n > 20:
     print("Not Weird")
 
 elif not n == 4:
-    print("Weird")
+    print("Weird") 
